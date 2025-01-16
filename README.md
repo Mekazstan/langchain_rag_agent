@@ -1,3 +1,5 @@
+![An implementaion of RAG](rag.jpg)
+
 # Chat with Local Documents
 
 This project is a document-based conversational assistant that allows users to query local documents using **RAG (Retrieval-Augmented Generation)** and interact with an **LLM (Large Language Model)** to get intelligent responses. The application is built using **Streamlit** for the frontend and integrates tools like **Chroma**, **HuggingFace models**, and **SentenceTransformer embeddings**.
