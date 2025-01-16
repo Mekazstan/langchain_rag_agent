@@ -1,3 +1,5 @@
+# An implementaion of **RAG (Retrieval-Augmented Generation)** 
+### NB: This picture aims just to show how RAG can be done. I used a different tech stack for my implementation.
 ![An implementaion of RAG](rag.jpg)
 
 # Chat with Local Documents
